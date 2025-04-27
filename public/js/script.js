@@ -11,7 +11,7 @@ const shopCategories = document.querySelectorAll(".shop__category");
 const circleBtn = document.querySelector(".go-down-btn");
 const scrollUpBtn = document.querySelector(".scroll-up");
 
-const API_URL = "../../apis/products.json";
+const API_URL = "../apis/products.json";
 
 // initialize Scroll Reveal
 const sr = ScrollReveal({
